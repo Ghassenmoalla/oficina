@@ -1,0 +1,1 @@
+/var/www/oficinasibs.mx/data/www/oficinasibs.mx/oficinasibsweb/public/index.php
